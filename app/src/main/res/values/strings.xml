@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+    <string name="about_text">About Pokemon</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="number">001</string>
+    <string name="name">pokemon</string>
+    <string name="type_desc">Pokemon_Type</string>
+    <string name="image_desc">Pokemon_Image</string>
+    <string name="cry_desc">Pokemon_Cry</string>
+    <string name="about">About</string>
+    <string name="moves">Moves</string>
+    <string name="variants">Variants</string>
+    <string name="prev_btn">Previous_Pokemon</string>
+    <string name="prev">&lt;—Prev</string>
+    <string name="next_btn">Next_Pokemon</string>
+    <string name="next">Next—&gt;</string>
+    <string name="loading">Loading…</string>
+    <string name="loading_message">… This should only take a minute</string>
+    <string name="loading_sub_message">This is an early build. When this app launches it will be
+        usable but will still need to load a little bit more. Thanks for your patience</string>
+    <string name="teambuilder_preamble">Add Pokemon to a team list. ??? means no choice selected</string>
+    <string name="slot_1">Slot 1</string>
+    <string name="slot_2">Slot 2</string>
+    <string name="slot_3">Slot 3</string>
+    <string name="slot_4">Slot 4</string>
+    <string name="slot_5">Slot 5</string>
+    <string name="slot_6">Slot 6</string>
+    <string name="save_btn">Save Team</string>
+    <string name="add_btn">Add_A_Team</string>
+    <string name="delete_btn">Delete All</string>
+    <string name="all_deleted">All Team Entries Deleted</string>
+    <string name="varieties_title">Varieties</string>
+    <string name="forms_title">Forms</string>
+    <string name="move_name">Move Name</string>
+    <string name="move_learned_at">Move Learned At</string>
+    <string name="move_method">Learn Method</string>
+</resources>
